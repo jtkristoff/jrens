@@ -15,6 +15,8 @@
 
 * **PerfSONAR on Routers and Switches** - *Eric Boyd, University of Michigan*
 
+* **Your Programmable NIC Should be a Programmable Switch** - *Brent Stephens, University of Illinois Chicago*
+
 * **Open Storage Network** - *Joe Mambretti, Northwestern University*
 
 * **Reconsidering Route Flap Damping with the Help of BMP** - *John Kristoff, DePaul University / University of Illinois Chicago*
