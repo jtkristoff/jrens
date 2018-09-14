@@ -1,11 +1,17 @@
 # Juniper Research & Education Networks Symposium
 
-* When:  October 10, 2018 (all day - refreshments and lunch provided)
+[**REGISTER HERE**](http://forms.juniper.net/AMER_GA_EVT_18Q4_J-RENS-Reg)
+
+* When:  October 10, 2018, 9:00 AM to 4:00 PM - refreshments and lunch provided
 * Where: DePaul University, DePaul Center room 8005, 1 E Jackson Blvd, Chicago, IL 60604
 * Cost:  Free
 * Who:   Research & Education community (staff, faculty, students)
 
-## Draft agenda:
+**_Attention students:_** If you'd like to participate in a poster
+session, please contact John Kristoff (jtk [at] depaul [.] edu) with
+a poster title and abstract.
+
+## Agenda:
 
 * **Juniper's R&E Collaboration Efforts** - including Juniper's Academic Alliance Program, *JJ Jamison & Tom Boehmer, Juniper Networks*
 
