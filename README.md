@@ -29,6 +29,8 @@ a poster title and abstract.
 
 * **Early Experiences with Segment Routing at ESnet** - *Nick Buraglio, ESnet*
 
+* **Juniper Node Slicing - An overview of router virtualization in R&E networks** - *Mark Brochu, Internet2*
+
 * **Student Poster Session**
 
 *  ... and more
